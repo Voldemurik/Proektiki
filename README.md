@@ -123,3 +123,5 @@ def play_game(board_size, player1, player2):
 
 play_game(3, 'X', 'O')
 ```
+## Курс по Git 
+Прошёл курс по обучению работе на Git от [Learn Git Branching](https://learngitbranching.js.org/). Вот даже сертификат скачал:
