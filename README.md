@@ -62,6 +62,7 @@ df.to_csv("result.csv", index=False)
 
 ## Игра Крестики-Нолики на Python
 
+```python
 def winning_line(strings):
     strings = set(strings)
     return len(strings) == 1 and ' ' not in strings
@@ -121,3 +122,4 @@ def play_game(board_size, player1, player2):
     print_draw()
 
 play_game(3, 'X', 'O')
+```
