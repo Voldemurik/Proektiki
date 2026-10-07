@@ -125,3 +125,7 @@ play_game(3, 'X', 'O')
 ```
 ## Курс по Git 
 Прошёл курс по обучению работе на Git от [Learn Git Branching](https://learngitbranching.js.org/). Вот даже сертификат скачал: ![](https://github.com/Voldemurik/Proektiki/blob/main/learn-git-branching-certificate-vladimir-fominykh.png)
+
+## Git
+
+В октябре потихоньку изучаю Git по Scott Chacon и Ben Straub. Continue!
